@@ -1,0 +1,27 @@
+ ,File Name,Number of Patches,Average Size,Average Intensity,% Area,Crowdness,Idea Ratio of distances,Deviation from Ideal,Deviation from Random
+1,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000001_Left_SimpleSeg.tif,33,335.455,67.840,14.462,8.919,5.385,10.403,1.133
+2,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000001_Right_SimpleSeg.tif,29,377.655,69.491,14.308,9.206,5.092,9.419,1.134
+3,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000005_Left_SimpleSeg.tif,13,291.769,76.267,4.955,3.171,3.151,6.695,0.907
+4,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000005_Right_SimpleSeg.tif,16,331.938,70.978,6.938,4.324,3.590,5.926,1.450
+5,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000006_Left_SimpleSeg.tif,35,390.914,72.190,17.875,11.111,5.568,9.603,1.503
+6,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000006_Right_SimpleSeg.tif,38,337.684,51.098,16.764,10.270,5.831,10.211,1.248
+7,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000013_Left_SimpleSeg.tif,30,255.667,92.879,10.020,6.342,5.184,10.020,1.046
+8,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000013_Right_SimpleSeg.tif,17,269.118,91.335,5.977,3.769,3.754,6.967,1.119
+9,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000018_Left_SimpleSeg.tif,37,220.243,57.231,10.646,6.560,5.745,11.035,1.118
+10,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000018_Right_SimpleSeg.tif,20,335.450,59.787,8.765,5.405,4.091,8.373,1.186
+11,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000039_Left_SimpleSeg.tif,27,560.259,68.230,19.762,13.300,4.804,9.069,1.065
+12,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000039_Right_SimpleSeg.tif,35,458.514,67.264,20.966,14.113,5.568,10.239,1.161
+13,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000043_Left_SimpleSeg.tif,24,292.792,68.636,9.180,5.854,4.575,8.426,1.141
+14,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000043_Right_SimpleSeg.tif,28,338.429,65.549,12.380,7.568,4.998,9.425,1.166
+15,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000044_Left_SimpleSeg.tif,21,258.238,58.399,7.085,4.440,4.216,8.304,1.029
+16,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000044_Right_SimpleSeg.tif,44,295.295,46.023,16.975,11.282,6.325,10.686,1.259
+17,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000045_Left_SimpleSeg.tif,28,250.143,50.200,9.150,5.920,4.998,10.046,0.984
+18,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000045_Right_SimpleSeg.tif,28,379.286,65.425,13.874,8.889,4.998,8.896,1.224
+19,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000046_Left_SimpleSeg.tif,29,459.862,41.904,17.423,11.694,5.092,8.964,1.153
+20,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000046_Right_SimpleSeg.tif,41,228.927,38.575,12.262,7.593,6.083,12.054,1.129
+21,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000003_Left_SimpleSeg.tif,7,153.286,86.113,1.402,0.819,2.000,4.962,1.053
+22,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000003_Right_SimpleSeg.tif,14,201.000,84.602,3.676,2.198,3.316,6.385,1.184
+23,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000007_Left_SimpleSeg.tif,16,142.438,106.792,2.977,1.808,3.590,9.975,0.892
+24,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000007_Right_SimpleSeg.tif,24,116.292,108.031,3.646,2.172,4.575,12.554,0.939
+25,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000012_Left_SimpleSeg.tif,11,183.091,93.252,2.631,1.659,2.867,5.234,1.114
+26,C:\Users\Bertrand\Documents\BookChapterNeubias\FinalFolder-20200716T063229Z-001\FinalFolder\Output\PEV000012_Right_SimpleSeg.tif,14,197.500,103.883,3.612,2.198,3.316,7.104,0.937
